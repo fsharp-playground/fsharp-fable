@@ -1,0 +1,1 @@
+node tools/fable2babel.js --watch --projFile app.fsx   --outDir output
